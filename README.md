@@ -1,4 +1,5 @@
 First Alfido Tech #internship project
+<br>
 Project Overview:
 The Number Game is a classic guessing game where a computer generates a random number, and the player's objective is to guess that number correctly. The game is implemented in Java and utilizes the Java Swing library to create a graphical user interface (GUI) for user interaction.
 
